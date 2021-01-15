@@ -1,3 +1,6 @@
+IMPORTANT: Original Repository: https://github.com/raunaqsingh2020/lookARound
+This repository was forked for the sake of presentation purposes. Original repository credits me as a contributor in its README.md as well.
+
 ![header image](https://raw.githubusercontent.com/raunaqsingh2020/lookARound/master/banner.png)
 
 # lookARound
